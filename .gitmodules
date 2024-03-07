@@ -1,0 +1,6 @@
+[submodule "Encoder"]
+	path = Encoder
+	url = https://github.com/Urban-Reef/Sensor-Reef-UREncoder.git
+[submodule "Decoder"]
+	path = Decoder
+	url = https://github.com/Urban-Reef/Sensor-Reef-URDecoder
